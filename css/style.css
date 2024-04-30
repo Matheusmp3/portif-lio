@@ -42,3 +42,23 @@ header nav ul li {
 header nav{
     padding:10px ;
 }
+.cabecao{
+    display: flex;
+}
+main h1{
+    text-align: center ;/* tag de alinhamento de texto */
+    text-transform: uppercase;/* tag para deixar a letra maiuscula */
+    padding: 35px; /* comando para aumentar ou diminuir um espaçamento*/
+}
+.cabecao img {
+    margin:  0px 25px;
+    width: px ; /*largura*/
+    height: px;/*comprimento*/
+    box-shadow: 10px 10px 100px black;
+
+}
+.cabecinha {
+    margin-left: 30px;
+    font-size: 16px;
+    padding: 0px 25px 10px 15px;
+}
